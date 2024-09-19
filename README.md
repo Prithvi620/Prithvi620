@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prithvi620
-- 👀 I’m Software development
+- 👀 I’m Software Engineer
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 prithvirajsinghrajput3452@gmail.com
